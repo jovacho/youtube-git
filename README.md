@@ -5,3 +5,5 @@
 3- git reset .
 4- git commit
 5- git checkout -- .
+
+git commit -m "FUNCIONA HIJO DE PUTA"
