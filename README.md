@@ -8,6 +8,8 @@
 6- git log
 7- git commit --amend
 8- git checkout -b rama-heroes
-9- 
+9- git checkout master
+10-
+11-
+12-
 
-git commit -m "FUNCIONA HIJO DE PUTA"
